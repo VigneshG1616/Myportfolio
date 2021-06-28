@@ -48,6 +48,7 @@
 
         .content_text {
             font-family: 'Inter', sans-serif;
+          max-width: 75%
         }
 
         .doublequotes {
